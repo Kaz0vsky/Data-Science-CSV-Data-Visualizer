@@ -9,4 +9,6 @@ Usage:
 
 python3 datvis.py <path_to_csv_file>
 
+Test : tested on 100 line as this : Age, Salary, Experience, Satisfaction, Department
+
 ![viz](https://github.com/user-attachments/assets/454f3eed-f68a-43e9-8916-db7de72eaa75)
